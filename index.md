@@ -4,6 +4,11 @@ As a thank you for taking this course, I&#39;d like to give you a massive discou
 PLEASE DON’T FORGET TO POST A REVIEWS, YOUR REVIEW IS VERY IMPORTANT TO ME. PLEASE TAKE 30 SECONDS TO POST YOUR RATING AND WRITE FEW WORDS. MAYBE YOU LET ME KNOW IF MY EFFORTS TO UPGRADE THE COURSE WERE JUSTIFIED. I WILL TRULY APPRECIATE IT.
 
 ### Angular Developer Job Interview Questions and Answers (Printable PDF)
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ### BigInterview Access
 
