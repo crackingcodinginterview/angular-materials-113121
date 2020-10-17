@@ -1,4 +1,17 @@
 ## Welcome to GitHub Pages
+As a thank you for taking this course, I&#39;d like to give you a massive discount to any of my other course. You can enroll in any of my courses by using the coupon code &quot;MARKETINGMASTERCLASS&quot; or &quot;BESTDEALEVER&quot;.
+
+PLEASE DON’T FORGET TO POST A REVIEWS, YOUR REVIEW IS VERY IMPORTANT TO ME. PLEASE TAKE 30 SECONDS TO POST YOUR RATING AND WRITE FEW WORDS. MAYBE YOU LET ME KNOW IF MY EFFORTS TO UPGRADE THE COURSE WERE JUSTIFIED. I WILL TRULY APPRECIATE IT.
+
+### Angular Developer Job Interview Questions and Answers (Printable PDF)
+
+### BigInterview Access
+
+### Angular Coding Assessment
+
+### Markdown
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/crackingcodinginterview/angular-materials-113121/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
